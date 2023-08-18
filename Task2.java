@@ -26,11 +26,11 @@ public class Task2 {
                 count++;
                 }
         }
-        if (count == word.length()/2){
+        if (count == word.length() / 2){
             System.out.println("Да, строка является палиндромом ");
         }
         else {
-            System.out.println("Нет,строка не является палиндромом ");
+            System.out.println("Нет, строка не является палиндромом ");
         }
     }
 }
